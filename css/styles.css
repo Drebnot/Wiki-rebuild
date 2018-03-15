@@ -1,0 +1,24 @@
+
+.banner {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  width: 100%;
+  margin: 20px 0 6px;
+  overflow: hidden;
+  height: 95px;
+}
+
+.welcome {
+  text-align: center;
+  float: left;
+}
+
+.welcome-list {
+  float: right;
+  margin: 12px;
+
+}
+
+.welcome-list li {
+  display: block;
+}
