@@ -22,11 +22,10 @@ h1 {
 }
 
 .welcome-list ul {
-  position: relative;
   float: right;
   column-count: 3;
   column-gap: 60px;
-  list-style-type: none;
+  list-style: inside;
 }
  .row {
    margin: 0 auto;
@@ -71,4 +70,26 @@ h1 {
 .sidebar ul {
   list-style-type: none;
   padding-left: 20px;
+}
+
+.purple {
+  width: 100%;
+  border: 1px solid #ddcef2;
+  background-color: #faf5ff;
+}
+
+.purple h2 {
+  background-color: #ddcef2;
+  border: 1px solid #afa3bf;
+  margin: 7px;
+  font-size: 18px;
+  padding: 6px;
+}
+.purple p {
+  text-align: center;
+}
+
+.purple img {
+  display: block;
+  margin: 0 auto;
 }
