@@ -22,3 +22,26 @@
 .welcome-list li {
   display: block;
 }
+.col-md-7 {
+  background-color: #f5fffa;
+  border: 1px solid #cef2e0;
+}
+
+.feature {
+  margin: 2px;
+}
+
+.feature h2 {
+  background-color: #cef2e0;
+  border: 1px solid #a3bfb1;
+}
+
+.feature-blue {
+  background-color: #f5faff;
+  border: 1px solid #cedff2;
+}
+
+.feature-blue h2 {
+  background-color: #cedff2;
+  border: 1px solid #a3b0bf;
+}
